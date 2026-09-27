@@ -1,0 +1,14 @@
+{
+  "name": "qrsalt",
+  "version": "1.0.0",
+  "description": "Make, re-point and track QR codes and short links, and read QR images, from your AI assistant.",
+  "author": {
+    "name": "QRSalt",
+    "url": "https://qrsalt.com"
+  },
+  "homepage": "https://qrsalt.com/qr-code-mcp-server",
+  "repository": "https://github.com/QRSalt/qrsalt-mcp",
+  "license": "MIT",
+  "keywords": ["qr-code", "qr", "short-links", "dynamic-qr-code", "gs1-digital-link", "barcode", "analytics", "mcp"],
+  "logo": "assets/logo.png"
+}

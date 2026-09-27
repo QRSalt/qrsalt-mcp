@@ -1,0 +1,17 @@
+{
+  "name": "qrsalt",
+  "owner": {
+    "name": "QRSalt",
+    "url": "https://qrsalt.com"
+  },
+  "metadata": {
+    "description": "The QRSalt MCP server as a Claude Code plugin."
+  },
+  "plugins": [
+    {
+      "name": "qrsalt",
+      "source": "./",
+      "description": "Make, re-point and track QR codes and short links, and read QR images, from your AI assistant."
+    }
+  ]
+}

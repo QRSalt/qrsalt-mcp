@@ -1,0 +1,4 @@
+.schemas/
+node_modules/
+mcp-publisher
+.mcpregistry_*

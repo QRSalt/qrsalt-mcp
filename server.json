@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.QRSalt/qrsalt-mcp",
+  "title": "QRSalt",
+  "description": "Make, re-point and track QR codes and short links, and read QR images, from your AI assistant.",
+  "version": "1.0.0",
+  "websiteUrl": "https://qrsalt.com/qr-code-mcp-server",
+  "repository": {
+    "url": "https://github.com/QRSalt/qrsalt-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://qrsalt.com/brand/qrsalt-mark-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"],
+      "theme": "light"
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.qrsalt.com/api/mcp"
+    }
+  ]
+}
